@@ -34,9 +34,9 @@ Logo
 Screenshots
 -----------
 
-![task.li – email to task list](taskli.github.com/presskit/screenshots/task.li - email2list small.png)
-![task.li - email](taskli.github.com/presskit/screenshots/task.li - email small.png)
-![task.li - list](taskli.github.com/presskit/screenshots/task.li - list small.png)
-![task.li - screenshot home](taskli.github.com/presskit/screenshots/task.li - screenshot home small.png)
-![task.li - screenshot list](taskli.github.com/presskit/screenshots/task.li - screenshot list small.png)
+![task.li – email to task list](http://taskli.github.com/presskit/screenshots/task.li - email2list small.png)
+![task.li - email](http://taskli.github.com/presskit/screenshots/task.li - email small.png)
+![task.li - list](http://taskli.github.com/presskit/screenshots/task.li - list small.png)
+![task.li - screenshot home](http://taskli.github.com/presskit/screenshots/task.li - screenshot home small.png)
+![task.li - screenshot list](http://taskli.github.com/presskit/screenshots/task.li - screenshot list small.png)
 
