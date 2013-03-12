@@ -33,6 +33,12 @@ task.li is a joint venture by
 Logo
 ----
 
+![taskli-logo-word-256px.png](http://taskli.github.com/presskit/logo/png/taskli-logo-word-256px.png)
+![taskli-logo-256px.png](http://taskli.github.com/presskit/logo/png/taskli-logo-256px.png)
+![taskli-logo-sign-140px.png](http://taskli.github.com/presskit/logo/png/taskli-logo-sign-140px.png)
+
+more variations: [PNG](https://github.com/taskli/presskit/tree/gh-pages/logo/png) / [PDF](https://github.com/taskli/presskit/tree/gh-pages/logo/pdf)
+
 
 Screenshots
 -----------
