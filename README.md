@@ -5,6 +5,9 @@ Blogger, fan, journalist? Feel free to use, share & remix
 our media resources as you please. Anything missing?
 We're happy to help: press@task.li
 
+Download the entire presskit here:
+https://github.com/taskli/presskit/archive/gh-pages.zip
+
 
 What is task.li
 ---------------
