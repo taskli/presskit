@@ -23,8 +23,11 @@ a payed account with additional features in the future.
 Who is behind task.li
 ---------------------
 
-task.li is a joint venture by Beat Seeliger (http://http://panter.ch),
-Benny Schudel (http://benjaminschudel.com/) and Gregor Martynus (https://www.minutes.io).
+task.li is a joint venture by 
+
+* Beat Seeliger (http://panter.ch)
+* Benny Schudel (http://benjaminschudel.com)
+* Gregor Martynus (https://www.minutes.io)
 
 
 Logo
