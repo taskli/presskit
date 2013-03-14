@@ -16,7 +16,7 @@ task.li is the simplest way to create a shared task list
 for groups. 
 
 There is no sign up needed, everyone can use it right away.
-Simply add mail@task.li as a reciepient when you send out
+Simply add mail@task.li as a recipient when you send out
 an email containing tasks to your client, collegues or friends.
 
 task.li is free to use and always will be. We plan do add
